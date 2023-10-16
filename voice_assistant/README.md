@@ -9,9 +9,6 @@
 
 
 
-
-
-
 ## About The Project
   Console Application which help to do your daily work routine.
 
@@ -37,30 +34,6 @@ elif 'YOUR VOICE COMMAND' in query:
             ## YOUR CODE
 ```
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch 
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
-
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
-LinkedIn
-[Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/)
-
-More Projects
-GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
 
 
 
